@@ -29,4 +29,12 @@ This is an AI-powered document summarizer built using Streamlit, LangChain, and 
 6. **Access the app:**
    
    Open your browser and navigate to http://localhost:8501.
-   
+## Built With
+
+- Streamlit
+- LangChain
+- Groq
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
